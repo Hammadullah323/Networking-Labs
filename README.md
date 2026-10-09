@@ -1,7 +1,9 @@
 # Networking Labs
 
-Cisco Packet Tracer labs from my BS Computer Science coursework, **Data Communication Networks (DCN)**.
+Cisco Packet Tracer labs and assignments from my BS Computer Science coursework.
 Each folder has the topology, a short explanation, my lab report (PDF) and the Packet Tracer file (`.pkt`).
+
+## Data Communication Networks (DCN)
 
 | Lab | Topic | Folder |
 |---|---|---|
@@ -17,6 +19,25 @@ Each folder has the topology, a short explanation, my lab report (PDF) and the P
 | Lab 11 | Email server and DNS | [dcn-lab11-email-and-dns](dcn-lab11-email-and-dns) |
 | Assignment 1 | DHCP on a 5-router hub network | [dcn-assignment1-dhcp-five-routers](dcn-assignment1-dhcp-five-routers) |
 | Assignment 2 | Multi-service network with 10 routers (DHCP, FTP, DNS, web, email) | [dcn-assignment2-multi-service-network](dcn-assignment2-multi-service-network) |
+
+## Internet / Intranet Architecture (IIA)
+
+| Lab | Topic | Folder |
+|---|---|---|
+| Lab 1 | Router basics and CLI | [iia-lab1-router-basics](iia-lab1-router-basics) |
+| Lab 2 | DHCP and wireless routers | [iia-lab2-dhcp-and-wireless](iia-lab2-dhcp-and-wireless) |
+| Lab 3 | Static routing | [iia-lab3-static-routing](iia-lab3-static-routing) |
+| Lab 4 | Multi-router network connectivity | [iia-lab4-multi-router-network](iia-lab4-multi-router-network) |
+| Lab 5 | RIP v2 | [iia-lab5-rip-v2](iia-lab5-rip-v2) |
+| Lab 6 | EIGRP | [iia-lab6-eigrp](iia-lab6-eigrp) |
+| Lab 7 | OSPF | [iia-lab7-ospf](iia-lab7-ospf) |
+| Lab 8 | Extended ACL with an FTP server | [iia-lab8-acl-ftp-access-control](iia-lab8-acl-ftp-access-control) |
+| Lab 9 | Switch port security | [iia-lab9-port-security](iia-lab9-port-security) |
+| Lab 10 | OSPF with NAT and ACL | [iia-lab10-ospf-nat-acl](iia-lab10-ospf-nat-acl) |
+| Lab 11 | Mixed routing protocols and redistribution | [iia-lab11-route-redistribution](iia-lab11-route-redistribution) |
+| Lab 12 | FLSM, VLSM, static routing and RIP v2 in a multi-branch network | [iia-lab12-flsm-vlsm-multi-branch](iia-lab12-flsm-vlsm-multi-branch) |
+| Assignment 1 | Central DHCP server with static routing and RIP v2 | [iia-assignment1-dhcp-relay-static-rip](iia-assignment1-dhcp-relay-static-rip) |
+| Assignment 2 | OSPF, EIGRP and static routing with redistribution and ACL | [iia-assignment2-ospf-eigrp-static-redistribution](iia-assignment2-ospf-eigrp-static-redistribution) |
 
 More labs will be added as I complete them.
 
